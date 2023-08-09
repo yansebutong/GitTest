@@ -11,3 +11,5 @@ Git tracks changes of files.
 <!-- 
 Add to staged area.
 Let's try to remove changes from staged area. -->
+
+Creating a new branch is quick.
