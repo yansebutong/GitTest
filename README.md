@@ -16,3 +16,5 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 
 Test no ff merge.
+
+Now fix a bug.
