@@ -20,3 +20,5 @@ Test no ff merge.
 Now fix a bug.
 Continue to fix.
 Finally fix it.
+
+Need to merge bugFix02.
